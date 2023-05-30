@@ -1,0 +1,34 @@
+label{
+    color: white;
+}
+td{
+    color: white;
+}
+th{
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+}
+form{
+    margin-top: 30px;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+form table{
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: Black;
+    height: 600px;
+    border: 7px solid rgba(0, 0, 0, 0.507);
+    border-radius: 40px;
+    padding-left: 30px;
+    padding-right: 30px;
+    opacity: .8;
+}
+body{
+    background-size: cover;
+    background-repeat: no-repeat;
+}

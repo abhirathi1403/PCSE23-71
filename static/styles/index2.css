@@ -1,0 +1,77 @@
+.main{
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 30px;
+    padding-right: 30px;
+    height:auto;
+    background-color: rgb(0, 0, 0);
+    opacity: .8;
+    width: 50%;
+   border: 2px solid rgba(247, 248, 247, 0.993);
+   border-radius: 40px;
+  
+}
+td{
+    color: white;
+}
+body{
+    background-size:auto;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+table{
+    margin-right: auto;
+    margin-left: auto;
+}
+form{
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: 60px;
+}
+tr{
+    height: 40px;
+}
+
+h1{
+    margin-left: auto;
+    margin-right: auto;
+}
+a{
+    color: white;
+}
+#bottom
+{
+    background-color: black;
+    opacity: .8;
+    margin-left: -18px;
+    margin-top: -10px;
+}
+#middle
+{
+    margin-left: auto;
+    margin-right: auto;
+    background-color: black;
+    opacity: .8;
+    color: white;
+    width: fit-content;
+
+}
+#menubar{
+    padding-left: 30px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    background-color: rgb(8, 214, 241);
+    color: white;
+    border: 2px solid rgba(247, 248, 247, 0.993);
+    border-radius: 30px;
+    /* height: 100px; */
+}
+#menubar table tr :hover{
+    margin-top: 0px;
+    margin-bottom: 10px;
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
